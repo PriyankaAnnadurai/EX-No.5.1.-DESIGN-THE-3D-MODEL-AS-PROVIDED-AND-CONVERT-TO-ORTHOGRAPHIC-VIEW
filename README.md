@@ -36,7 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
-![EDM EXP5 1](https://github.com/PriyankaAnnadurai/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/118351569/c97bdb8e-d2a3-4a98-8b07-4abb211c2854)
+![image](https://github.com/PriyankaAnnadurai/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/118351569/dbf67e9b-48f9-42ad-a694-be0f648f35bf)
 
 
 ## RESULT:
